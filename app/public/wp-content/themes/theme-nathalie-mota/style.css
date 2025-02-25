@@ -1,0 +1,50 @@
+/*
+Theme Name: theme-nathalie-mota
+Theme URI: 
+Author: Louufrt
+Author URI: 
+Description: Thème pour le "projet 11"
+Version: 1.0
+Tags: openclassrooms, projet11, cours
+Text Domain: nathalie-mota
+*/
+
+h1 {
+    font-family: "Space Mono", serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 96px;
+    line-height: 142.18px;
+}
+
+h2 {
+    font-family: "Space Mono", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 66px;
+    line-height: 58px;
+}
+
+h3 {
+    font-family: "Space Mono", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 26.66px;
+}
+
+.descrption-photo {
+    font-family: "Space Mono", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 20.73px;
+}
+
+p {
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 21px;
+}
