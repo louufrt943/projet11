@@ -12,6 +12,7 @@ add_action('after_setup_theme', 'theme_setup');
 ?>
 
 <?php
+// Enregistrer scripts.js dans functions.php
 function enqueue_theme_scripts() {
     wp_enqueue_script('theme-scripts', get_template_directory_uri() . '/js/scripts.js', array('jquery'), null, true);
 }
